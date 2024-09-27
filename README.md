@@ -3,10 +3,10 @@
 
 I aim to incorporate a flowing light effect into my project. The final effect I want to achieve in the project is to have certain patterns on the image formed by numerous lines with smoothly transitioning colors, a glowing outer appearance, and colors that shift evenly over time. Additionally, I plan to add interactivity by making the lines flow in response to the mouse movement, as shown in Pic 1 and Pic 2. I believe this effect can bring a sense of modern technology, enhance the artwork's contemporary feel, and create a romantic and dreamy atmosphere.
 
-![ A image of effect1](assets\pic1.jpg)
+![ A image of effect1](assets/pic1.jpg)
 
                             Pic 1
-![ A image of effect2](assets\button1.gif)
+![ A image of effect2](assets/button1.gif)
 
                             Pic 2
 
@@ -25,6 +25,9 @@ Overall, this coding technique offers basic functionalities and ideas for implem
 [Existing code link](https://p5js.org/zh-Hans/examples/classes-and-objects-connected-particles/)
 : This image shows the code in action, as shown in Pic 3.
 
-![ A image of effect3](assets\pic2.png)
+![ A image of effect3](assets/pic2.png)
 
                             Pic 3
+
+
+I made changes to the images only to make them display properly on the evening of September 27th.
